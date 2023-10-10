@@ -1,0 +1,4 @@
+{
+    "name": "Autoapproval Workflow",
+    "description": "Auto approve PRs that pass all required checks."
+}
