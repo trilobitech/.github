@@ -1,0 +1,4 @@
+{
+    "name": "Alls Green workflow",
+    "description": "Waits all others workflows completion"
+}
