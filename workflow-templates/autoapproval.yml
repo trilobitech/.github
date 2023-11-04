@@ -3,7 +3,7 @@ name: Autoapproval
 on:
   workflow_run:
     workflows:
-      - Alls green
+      - Alls green workflow
     types:
       - completed
 
